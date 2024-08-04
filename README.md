@@ -1,6 +1,6 @@
 # Set Calculator (C Language)
 
-This C program serves as a calculator for performing operations on sets of integer numbers within the range [0,127]. Users can manipulate six sets labeled as SETA through SETF. The operations supported by the calculator are:x
+This C program serves as a calculator for performing operations on sets of integer numbers within the range [0,127]. Users can manipulate six sets labeled as SETA through SETF. The operations supported by the calculator are:
 
 ### Operations:
 
